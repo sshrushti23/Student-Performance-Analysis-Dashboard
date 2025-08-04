@@ -1,5 +1,5 @@
 # Student-Performance-Analysis-Dashboard
-with detail and headings points descriptitions'
+
 
 
 
