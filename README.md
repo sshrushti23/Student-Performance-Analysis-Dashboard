@@ -7,7 +7,7 @@
 This is a Student Performance Analysis Dashboard designed to provide a comprehensive overview of student performance metrics. The dashboard features a clean, professional layout with a consistent color scheme of dark brown/black and white. It is organized into distinct sections for key performance indicators (KPIs), interactive filters, and detailed data visualizations.
 
 
-The top section of the dashboard displays five prominent cards, each highlighting a critical high-level metric for the entire student body:
+📊The top section of the dashboard displays five prominent cards, each highlighting a critical high-level metric for the entire student body:
 
 Student Count: Shows the total number of students in the dataset, which is 509.
 
